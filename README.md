@@ -5,9 +5,15 @@
 - **don't make a living by coding**,
 - **but enjoy my life by coding.**  
   
-
 <br/>  
 
+## Stack
+
+[![Tools](https://skillicons.dev/icons?i=linux,docker,neovim,bash,cloudflare,git)](https://skillicons.dev)
+
+[![Language](https://skillicons.dev/icons?i=python,latex,lua,html,css,javascript)](https://skillicons.dev)
+
+<br/>  
 
 ## Stats  
 <table><tr><td valign="top" width="50%">
